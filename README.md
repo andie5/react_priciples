@@ -1,2 +1,2 @@
-# react_priciples
+# react_principles
 Basic React projects
