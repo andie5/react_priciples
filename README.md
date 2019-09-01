@@ -1,2 +1,2 @@
 # react_priciples
-Basic rReact projects
+Basic React projects
